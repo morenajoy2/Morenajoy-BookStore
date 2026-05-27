@@ -1,6 +1,7 @@
 # Morenajoy-BookStore
+A Java Swing-based bookstore ordering system with MySQL database integration and receipt generation.
 
-##Live Demo
+## Live Demo
 https://youtu.be/F1QjNEUPdU8
 
 ## Features
@@ -8,13 +9,17 @@ https://youtu.be/F1QjNEUPdU8
 - Courier and payment options
 - Automatic total calculation
 - MySQL database integration
+- Receipt generation in separate window
 
 ---
 
 ## Screenshots
 
 ### Main Interface
-![Main](morenajoy's-bookstore-screenshot.png)
+![Main Form](screenshots/order_screenshot.png)
+
+### 🧾 Receipt Window
+![Receipt](screenshots/receipt_screenshot.png)
 
 ## Requirements
 
